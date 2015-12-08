@@ -1,0 +1,12 @@
+[submodule "xindy"]
+	path = xindy
+	url = ./xindy/
+[submodule "make-rules"]
+	path = make-rules
+	url = ./make-rules/
+[submodule "modules"]
+	path = modules
+	url = ./modules/
+[submodule "www"]
+	path = www
+	url = ./www
