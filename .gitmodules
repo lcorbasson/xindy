@@ -1,12 +1,12 @@
-[submodule "xindy"]
-	path = xindy
-	url = ./xindy/
 [submodule "make-rules"]
 	path = make-rules
-	url = ./make-rules/
+	url = https://github.com/lcorbasson/xindy--make-rules.git
 [submodule "modules"]
 	path = modules
-	url = ./modules/
+	url = https://github.com/lcorbasson/xindy--modules.git
 [submodule "www"]
 	path = www
-	url = ./www
+	url = https://github.com/lcorbasson/xindy--www.git
+[submodule "xindy"]
+	path = xindy
+	url = https://github.com/lcorbasson/xindy--xindy.git
